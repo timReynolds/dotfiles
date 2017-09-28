@@ -1,7 +1,6 @@
 cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
-tap 'puma/puma'
 
 brew 'ack'
 brew 'coreutils'
@@ -30,6 +29,7 @@ cask 'authy-desktop'
 cask 'datagrip'
 cask 'dropbox'
 cask 'google-chrome'
+cask 'iterm2'
 cask 'rescuetime'
 cask 'slack'
 cask 'transmission'
